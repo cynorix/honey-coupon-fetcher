@@ -8,14 +8,14 @@ Script may not be perfect, it was made in less than 15 minutes but it works for 
 ## Usage
 ### Windows
 ```batch
-git clone https://github.com/G4-Synix/honey-coupon-fetcher.git
+git clone https://github.com/G4-Synix/honey-coupon-fetcher.git --depth 1
 cd honey-coupon-fetcher
 py -m pip install requests
 py fetcher.py
 ```
 ### Linux
 ```bash
-git clone https://github.com/G4-Synix/honey-coupon-fetcher.git
+git clone https://github.com/G4-Synix/honey-coupon-fetcher.git --depth 1
 cd honey-coupon-fetcher
 pip3 install requests
 python3 fetcher.py
