@@ -4,6 +4,7 @@ Script may not be perfect, it was made in less than 15 minutes but it works for 
 
 ## Special thanks to
 [MegaLag](https://www.youtube.com/@MegaLag) for bringing this issue up
+Honey for having an unauthed API (lmao)
 
 ## Usage
 ### Windows
