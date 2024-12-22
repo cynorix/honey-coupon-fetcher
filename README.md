@@ -14,7 +14,7 @@ py fetcher.py
 ```bash
 git clone https://github.com/G4-Synix/honey-coupon-fetcher.git
 cd honey-coupon-fetcher
-pip install requests
+pip3 install requests
 python3 fetcher.py
 ```
 
