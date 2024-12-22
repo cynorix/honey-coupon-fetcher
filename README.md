@@ -3,6 +3,8 @@ This script was made because of honey's [predatory practices](https://www.youtub
 
 Script may not be perfect, it was made in less than 15 minutes but it works for now (as of 22/12/24)
 
+## DISCLAIMER
+this script was made mainly for **FUN** and practice purposes, if you're honey and want me to delete this, please reach out to me at [complaints@qjx.me](mailto:complaints@qjx.me) so we can resolve anyy issues
 ## Special thanks to
 [MegaLag](https://www.youtube.com/@MegaLag) for bringing this issue up
 
