@@ -15,14 +15,14 @@ Honey for having an unauthed API (lmao)
 ```batch
 git clone https://github.com/G4-Synix/honey-coupon-fetcher.git --depth 1 &&
 cd honey-coupon-fetcher &&
-py -m pip install requests &&
+py -m pip install -r requirements.txt &&
 py fetcher.py
 ```
 ### Linux
 ```bash
 git clone https://github.com/G4-Synix/honey-coupon-fetcher.git --depth 1 &&
 cd honey-coupon-fetcher &&
-pip3 install requests &&
+pip3 install -r requirements.txt &&
 python3 fetcher.py
 ```
 
