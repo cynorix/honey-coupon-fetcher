@@ -15,9 +15,6 @@ r = requests.get(url=f'https://d.joinhoney.com/v3', params=params, headers=heade
 if "storeId" in r.text:
     storeid = r.json()['data']['getPartialURLsByDomain'][0]['storeId']
     # start of request to get coupons for site
-    params = {
-        'coupons': '1'
-    }
     r = requests.get(url=f"https://d.joinhoney.com/stores/{storeid}?coupons=1", headers=headers)
     # end of request to get coupons for site
     coupons = r.json()['coupons']
