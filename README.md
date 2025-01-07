@@ -5,6 +5,7 @@ Script may not be perfect, it was made in less than 15 minutes but it works for 
 
 ## DISCLAIMER
 I assume no responsibility for misuse of this script, any and all responsibilities fall on the user.
+
 This script was made mainly for **FUN** and practice purposes, if you're honey and want me to delete this, please reach out to me at [complaints@qjx.me](mailto:complaints@qjx.me) so we can resolve any issues
 ## Special thanks to
 [MegaLag](https://www.youtube.com/@MegaLag) for bringing this issue up
