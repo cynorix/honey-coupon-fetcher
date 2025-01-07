@@ -1,7 +1,7 @@
 # Honey Coupon Fetcher
 This script was made because of honey's [predatory practices](https://www.youtube.com/watch?v=vc4yL3YTwWk), and allows you to grab coupons from their API without having to use their extension
 
-Script may not be perfect, it was made in less than 15 minutes but it works for now (as of 22/12/24)
+Script may not be perfect, it was made in less than 15 minutes but it works for now (as of 08/01/25)
 
 ## DISCLAIMER
 this script was made mainly for **FUN** and practice purposes, if you're honey and want me to delete this, please reach out to me at [complaints@qjx.me](mailto:complaints@qjx.me) so we can resolve any issues
